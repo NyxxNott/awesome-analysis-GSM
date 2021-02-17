@@ -3,6 +3,8 @@ Awesome Archives of GSM Exploits
 
 ## Sniffer Tools
 - https://www.rtl-sdr.com/sniffing-analyzing-gsm-signals-gr-gsm/
+- https://www.ckn.io/blog/2015/11/29/gsm-sniffing-sms-traffic/
+- https://www.appbrain.com/app/shark-for-root/lv.n3o.shark
 
 ## Wireshark for Mobile Packets
 - https://osqa-ask.wireshark.org/questions/3087/capturing-mobile-phone-packets
