@@ -9,3 +9,4 @@ Awesome Archives of GSM Exploits
 
 ## Stream Cipher Vulnerabilities
 - https://phys.org/news/2016-10-weakness-2g-mobile-networks-revealed.html
+- https://security.stackexchange.com/questions/35376/are-phone-calls-on-a-gsm-network-encrypted
